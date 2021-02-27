@@ -1,0 +1,5 @@
+spotify-current-track.txt
+.cache
+.python-version
+venv/
+config.yml
